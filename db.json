@@ -1,3 +1,16 @@
 {
-   "users": [{ "id": 1, "username": "phong@gmail.com", "password": "1234" }]
+  "users": [
+    {
+      "id": 1,
+      "username": "phong@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "e755",
+      "username": "doanvinhkha@gmail.com",
+      "password": "1234",
+      "fullname": "Kha Doan",
+      "age": "12"
+    }
+  ]
 }

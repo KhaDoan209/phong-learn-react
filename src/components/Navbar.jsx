@@ -111,7 +111,12 @@ const NavbarApp = () => {
                         </NavLink>
                      </NavbarItem>
                      <NavbarItem className='font-bold mx-3 hover:text-red-500'>
-                        <NavLink color='foreground'>Register</NavLink>
+                        <NavLink
+                           to='/register'
+                           color='foreground'
+                        >
+                           Register
+                        </NavLink>
                      </NavbarItem>
                   </>
                )}
